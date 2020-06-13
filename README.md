@@ -80,3 +80,7 @@ https://link.springer.com/book/10.1007/978-3-540-74113-8
 Hyperproperties : 
 
 https://www.cs.cornell.edu/fbs/publications/Hyperproperties.pdf.
+
+Hedra Formal Methods : 
+
+https://www.youtube.com/watch?v=6q15ytIOE3U
