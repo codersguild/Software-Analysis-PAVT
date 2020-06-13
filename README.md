@@ -1,5 +1,4 @@
-# dafny-examples
-Microsoft Research -- Dafny Examples &amp; Codes. 
+## Foraml Verification & Software Security
 
 1. Induction is a way to prove things that are defined recursively.
 -- Base case, we show that either for 1 or 0 / starting cases some
@@ -51,3 +50,17 @@ https://www.youtube.com/watch?v=kjxdelbo9C4&list=PLA72M-qSGPm2bZlhxYB-ePerW0U8nP
 Dafny Examples :
 Binary Search Verification in Dafny :
 https://www.youtube.com/watch?v=-_tx3lk7yn4
+
+Dafny PDF : 
+
+https://arxiv.org/pdf/1701.04481.pdf.
+
+Calculus of Computation : 
+
+https://link.springer.com/book/10.1007/978-3-540-74113-8
+
+Hyperproperties : 
+
+https://www.cs.cornell.edu/fbs/publications/Hyperproperties.pdf.
+
+
