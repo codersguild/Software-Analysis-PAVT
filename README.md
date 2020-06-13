@@ -12,6 +12,9 @@ resources for most of the practical problems that we try solving. You can
 however provide specific inputs that make the problem hard to solve/non
 halting.
 
+What on earth is Computer Security ??
+https://www.microsoft.com/en-us/research/publication/practical-principles-for-computer-security/
+
 ## Some Methods & Resources : 
 
 1. Induction is a way to prove things that are defined recursively.
