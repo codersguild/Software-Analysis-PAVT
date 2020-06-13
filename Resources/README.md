@@ -20,3 +20,20 @@ convert to LLVM AST IR.
 
 https://github.com/pwaller/go2ll-talk
 
+Formal Verifiaction Papers : 
+
+https://eprint.iacr.org/2019/564 
+
+https://eprint.iacr.org/2019/310.
+
+Fuzzing : 
+
+https://www.carolemieux.com/fuzzfactory_oopsla19.pdf
+
+DART Testing : 
+
+https://dl.acm.org/citation.cfm?id=1065036
+
+Dafny Tutorial Link PDF : 
+
+https://arxiv.org/pdf/1701.04481.pdf.
