@@ -24,7 +24,7 @@ property is true.
 -- For some k th case we show that if we assume P(k) is true, P(k+1) is true
 -- From this we may conclude that P(n) holds for all n in our domain.
 
-Videos :
+Introduction Videos :
 
 Simple Inductions :
 https://www.youtube.com/watch?v=m_91KWQiC0o&list=PLA72M-qSGPm3Bnkc6iKGxrL1OARztbm6V
