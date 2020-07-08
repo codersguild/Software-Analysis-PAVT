@@ -57,7 +57,7 @@ Getting some overview on smart contract attacks :
 https://swcregistry.io/
 
 Hyperproperties :
-https://eprint.iacr.org/2019/310
+https://eprint.iacr.org/2019/310.pdf
 https://www.cs.cornell.edu/fbs/publications/Hyperproperties.pdf
 https://arxiv.org/pdf/1905.13517.pdf
 
