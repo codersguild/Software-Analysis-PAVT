@@ -1,3 +1,8 @@
+What is Computer Security ?
+
+https://www.microsoft.com/en-us/research/publication/practical-principles-for-computer-security/
+https://dl.acm.org/doi/pdf/10.1145/1592761.1592773
+
 Propositional Natural Deductions : 
 https://www.youtube.com/watch?v=v2i59XRceXE&list=PLA72M-qSGPm2ohvwvJVbd3abnaSkiBy8j
 
@@ -44,12 +49,6 @@ Book : The Calculus of Computation. (Bradley & Manna)
 Slides :
 https://lara.epfl.ch/w/_media/sav15:calculus-of-computation-slides.pdf
 
-Computer Security :
-
-1. https://www.microsoft.com/en-us/research/publication/practical-principles-for-computer-security/
-
-2. https://dl.acm.org/doi/pdf/10.1145/1592761.1592773
-
 Non-Interference :
 http://csl.sri.com/papers/csl-92-2/csl-92-2.pdf
 
@@ -65,6 +64,7 @@ UCLID5 :
 https://github.com/uclid-org/uclid/tree/master/tutorial
 https://cse.iitk.ac.in/users/spramod/papers/memocode18.pdf
 https://cse.iitk.ac.in/users/spramod/papers/ccs17.pdf
+
 UCLID5 is based on Z3. Z3 Reference :
 https://theory.stanford.edu/~nikolaj/programmingz3.html
 
@@ -72,7 +72,5 @@ Paper - 1 : Dynamic Taint Analysis.
 https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf
 
 Book : The Calculus of Computation. (Bradley & Manna)
-
 Slides :
 https://lara.epfl.ch/w/_media/sav15:calculus-of-computation-slides.pdf
-
