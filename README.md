@@ -142,3 +142,6 @@ Hyperproperties :
 - https://eprint.iacr.org/2019/310
 - https://www.cs.cornell.edu/fbs/publications/Hyperproperties.pdf
 - https://arxiv.org/pdf/1905.13517.pdf
+
+Concepts/Topics : 
+- [Universal Quantification](https://en.wikipedia.org/wiki/Universal_quantification)
