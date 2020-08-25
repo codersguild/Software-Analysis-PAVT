@@ -3,6 +3,14 @@ from z3 import *
 S = Solver()
 a, b, c = Ints('a b c')
 
+"""
+How to save the assertions ? 
+"""
+def write_assertions(filename, solver) :
+    with open(filename, mode="w") as out_file : 
+        for (index, x) in enumerate(solver.assertions()) : 
+            out_file.write(f"Solver Assertion {index} ==>\n{x}\n\n")
+            
 def get_value (r) : 
     """
     Convert from Z3 to python values. 
