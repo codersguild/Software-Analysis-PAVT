@@ -1,7 +1,20 @@
 # -*- coding: utf-8 -*-
 from z3 import *
 import random 
-    
+
+    def get_z3_result (self) : 
+        """
+        Get Z3 Results 
+        """
+        __check = self.main_solver.check() 
+        if __check == sat :
+            return self.main_solver.model()
+        elif __check == unknown :
+            print(self.main_solver.reason_unknown())
+            return __check
+        elif __check == unsat :
+            return __check
+        
 score = Int('score')
 x, y, z = Reals('x, y, z')
 
