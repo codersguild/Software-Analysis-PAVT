@@ -15,6 +15,9 @@ halting.
 Computer Security Intro : 
 - https://www.microsoft.com/en-us/research/publication/practical-principles-for-computer-security/
 
+Good Resource to program in Z3 
+- https://theory.stanford.edu/~nikolaj/programmingz3.html#sec-using-solvers
+
 ## Some Methods & Basic Resources : 
 
 1. Induction is a way to prove things that are defined recursively.
