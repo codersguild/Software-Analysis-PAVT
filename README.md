@@ -148,3 +148,4 @@ Hyperproperties :
 
 Concepts/Topics : 
 - [Universal Quantification](https://en.wikipedia.org/wiki/Universal_quantification)
+- [More on Hoare Logic](https://www.cs.cmu.edu/~aldrich/courses/654-sp07/slides/7-hoare.pdf)
