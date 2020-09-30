@@ -112,6 +112,9 @@ Model Chceking - 2 :
 Linear Temporal Logic : 
 - https://www.youtube.com/watch?v=CUno7iGUmAo
 
+Clause Learning (CDCL) :
+- [Clause learning : CDCL](https://cse442-17f.github.io/Conflict-Driven-Clause-Learning/)
+
 Hyperproperties : 
 - https://www.youtube.com/watch?v=vVMu6g2H50Q
 
@@ -145,6 +148,10 @@ Hyperproperties :
 - https://eprint.iacr.org/2019/310
 - https://www.cs.cornell.edu/fbs/publications/Hyperproperties.pdf
 - https://arxiv.org/pdf/1905.13517.pdf
+
+Probabilistic Symbolic Execution : 
+- [Probabilistic Symbolic Execution](https://www.cs.cmu.edu/~emc/2014/speakers/CorinaPasareanuEMC14.pdf)
+- [PSE Paper](https://dl.acm.org/doi/10.1145/2338965.2336773)
 
 Concepts/Topics : 
 - [Universal Quantification](https://en.wikipedia.org/wiki/Universal_quantification)
