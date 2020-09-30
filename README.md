@@ -114,6 +114,7 @@ Linear Temporal Logic :
 
 Clause Learning (CDCL) :
 - [Clause learning : CDCL](https://cse442-17f.github.io/Conflict-Driven-Clause-Learning/)
+- [Handbook of SAT](https://www.ics.uci.edu/~dechter/courses/ics-275a/winter-2016/readings/SATHandbook-CDCL.pdf)
 
 Hyperproperties : 
 - https://www.youtube.com/watch?v=vVMu6g2H50Q
@@ -140,9 +141,6 @@ Book : The Calculus of Computation. (Bradley & Manna)
 
 Non-Interference :
 - http://csl.sri.com/papers/csl-92-2/csl-92-2.pdf
-
-Getting some overview on smart contract attacks :
-- https://swcregistry.io/
 
 Hyperproperties :
 - https://eprint.iacr.org/2019/310
