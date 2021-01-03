@@ -1,7 +1,7 @@
 ## Formal Verification & Software Security : 
 
 This repository contains many of the references & texts shared by my late research guide 
-Dr. Pramod Subramanyan. He introduced me to formal verfication & software security. 
+```Dr. Pramod Subramanyan```. He introduced me to formal verfication & software security. 
 
 May his soul rest in peace. 
 
@@ -15,8 +15,11 @@ array element while execution. Some of the validations or proves might
 seem NP-Complete but these things are solved in finite amount of time and
 resources for most of the practical problems that we try solving. You can
 however provide specific inputs that make the problem hard to solve/non
-halting. Rest of the repository contains references shared by my current guide 
-Dr. Subhajit Roy, from whom I have learned a lot and I guess I am still learning new things from him. 
+halting. 
+
+Rest of the repository contains many cool references shared by my current guide 
+```Dr. Subhajit Roy```, from whom I have learned a lot and I guess I am still 
+learning new things from him. 
 
 Computer Security Intro : 
 - https://www.microsoft.com/en-us/research/publication/practical-principles-for-computer-security/
