@@ -21,13 +21,7 @@ resources for most of the practical problems that we try solving. You can
 however provide specific inputs that make the problem hard to solve/non
 halting. 
 
-Computer Security Intro : 
-- https://www.microsoft.com/en-us/research/publication/practical-principles-for-computer-security/
-
-Good Resource to program in Z3 
-- https://theory.stanford.edu/~nikolaj/programmingz3.html#sec-using-solvers
-
-#  <a name='updates'>Research Papers</a>
+#  <a name='updates'>Research Papers & Topics</a>
 
 ### [[⬆]](#updates) <a name='links'>Paper Links</a>
 
