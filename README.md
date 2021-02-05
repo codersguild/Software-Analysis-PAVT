@@ -5,6 +5,10 @@ This repository contains many of the references & texts shared by my late resear
 
 May his soul rest in peace. 
 
+The repository contains many cool references shared by my current guide 
+```Dr. Subhajit Roy```, from whom I have learned a lot and I guess I am still 
+learning new things from him. 
+
 Formal Method is a set of techniques and methodology that helps us in
 doing formal verification. Formal Verification is a way of defining a
 concrete / abstract overview of a problem or model and then answering some
@@ -16,10 +20,6 @@ seem NP-Complete but these things are solved in finite amount of time and
 resources for most of the practical problems that we try solving. You can
 however provide specific inputs that make the problem hard to solve/non
 halting. 
-
-Rest of the repository contains many cool references shared by my current guide 
-```Dr. Subhajit Roy```, from whom I have learned a lot and I guess I am still 
-learning new things from him. 
 
 Computer Security Intro : 
 - https://www.microsoft.com/en-us/research/publication/practical-principles-for-computer-security/
