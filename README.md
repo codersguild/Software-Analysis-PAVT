@@ -204,3 +204,5 @@ Concepts/Topics :
 - [Universal Quantification](https://en.wikipedia.org/wiki/Universal_quantification)
 - [More on Hoare Logic](https://www.cs.cmu.edu/~aldrich/courses/654-sp07/slides/7-hoare.pdf)
 - [Abstract Interpretation](https://www.researchgate.net/publication/220997507_Abstract_Interpretation_A_Unified_Lattice_Model_for_Static_Analysis_of_Programs_by_Construction_or_Approximation_of_Fixpoints)
+- [Use of gcov & gtest](https://dr-kino.github.io/2019/12/22/test-coverage-using-gtest-gcov-and-lcov/)
+- [Example use of gcov, gtest, cmake & make](https://github.com/CS253-IITK-2021/Demo-Codes)
