@@ -200,6 +200,9 @@ Probabilistic Symbolic Execution :
 - [Probabilistic Symbolic Execution](https://www.cs.cmu.edu/~emc/2014/speakers/CorinaPasareanuEMC14.pdf)
 - [PSE Paper](https://dl.acm.org/doi/10.1145/2338965.2336773)
 
+Probabilistic Programming : 
+- [Hakaru](https://hakaru-dev.github.io/)
+
 Concepts/Topics : 
 - [Universal Quantification](https://en.wikipedia.org/wiki/Universal_quantification)
 - [More on Hoare Logic](https://www.cs.cmu.edu/~aldrich/courses/654-sp07/slides/7-hoare.pdf)
