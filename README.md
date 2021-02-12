@@ -46,7 +46,7 @@ halting.
 - [ ] [Control Flow Integrity](https://www.microsoft.com/en-us/research/wp-content/uploads/2005/11/ccs05.pdf)
 - [ ] [Avoiding Exponential Explosion](https://users.soe.ucsc.edu/~cormac/papers/popl01.pdf)
 
-### Reading Material
+### Reading Material & Book References 
 
 - [ ] [Dafny](https://arxiv.org/pdf/1701.04481.pdf) 
 - [ ] [Hyperproperties](https://arxiv.org/pdf/1905.13517.pdf)
@@ -57,15 +57,13 @@ halting.
 - [ ] [Software Foundations - Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
 - [ ] [Model Checking](https://www.youtube.com/playlist?list=PLnbFC0ntxiqdpoWwMKCVh6BRwBePHaqQx)
 - [ ] [FORMAL METHODS IIT-D Lecture Slides](http://web.iitd.ac.in/~sumeet/slide3.pdf)
-
+- [ ] [Program Analysis, Verification & Testing Book](http://faculty.sist.shanghaitech.edu.cn/faculty/songfu/cav/PPA.pdf)
+- [ ] [The Science Of Programming](http://www.cs.cornell.edu/gries/July2016/The-Science-Of-Programming-Gries-038790641X.pdf)
 - [ ] [Model Checking](https://www.youtube.com/watch?v=KrWSK-UzCRc&list=PLnbFC0ntxiqdpoWwMKCVh6BRwBePHaqQx)
 - [ ] [Building Secure Systems from Buggy Code with Information Flow Control](https://www.youtube.com/watch?v=kZApEMgz2xY)
 - [ ] [Modular Verification of Secure Information Flow - Peter Müller](https://www.youtube.com/watch?v=a8SosOAG1Dc)  
 - [ ] [CISSP Domain Security](https://www.youtube.com/playlist?list=PLWqLeluv2Rq2jH70NFPYm0PB8sDMJ8gJR)
 
-### References : 
-
-https://ieeexplore.ieee.org/document/8763832/references#references
 
 ## Some Methods & Basic Resources : 
 
@@ -203,9 +201,15 @@ Probabilistic Symbolic Execution :
 Probabilistic Programming : 
 - [Hakaru](https://hakaru-dev.github.io/)
 
-Concepts/Topics : 
+## Concepts/Topics : 
+
 - [Universal Quantification](https://en.wikipedia.org/wiki/Universal_quantification)
+- [Uniqueness Quantification](https://en.wikipedia.org/wiki/Uniqueness_quantification#Reduction_to_ordinary_existential_and_universal_quantification)
 - [More on Hoare Logic](https://www.cs.cmu.edu/~aldrich/courses/654-sp07/slides/7-hoare.pdf)
 - [Abstract Interpretation](https://www.researchgate.net/publication/220997507_Abstract_Interpretation_A_Unified_Lattice_Model_for_Static_Analysis_of_Programs_by_Construction_or_Approximation_of_Fixpoints)
+
+## Hands-On Stuff & Tutorials I made :
+
 - [Use of gcov & gtest](https://dr-kino.github.io/2019/12/22/test-coverage-using-gtest-gcov-and-lcov/)
 - [Example use of gcov, gtest, cmake & make](https://github.com/CS253-IITK-2021/Demo-Codes)
+
