@@ -201,6 +201,9 @@ Probabilistic Symbolic Execution :
 Probabilistic Programming : 
 - [Hakaru](https://hakaru-dev.github.io/)
 
+LLVM Frameworks :
+- [LLVM : Compilers Lab](https://www.youtube.com/playlist?list=PLDSTpI7ZVmVnvqtebWnnI8YeB8bJoGOyv)
+
 ## Concepts/Topics : 
 
 - [Universal Quantification](https://en.wikipedia.org/wiki/Universal_quantification)
