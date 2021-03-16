@@ -63,6 +63,8 @@ halting.
 - [ ] [Building Secure Systems from Buggy Code with Information Flow Control](https://www.youtube.com/watch?v=kZApEMgz2xY)
 - [ ] [Modular Verification of Secure Information Flow - Peter Müller](https://www.youtube.com/watch?v=a8SosOAG1Dc)  
 - [ ] [CISSP Domain Security](https://www.youtube.com/playlist?list=PLWqLeluv2Rq2jH70NFPYm0PB8sDMJ8gJR)
+- [ ] [Delta Debugging](https://www.cs.purdue.edu/homes/suresh/408-Spring2017/Lecture-9.pdf)
+- [ ] [What is fuzzing?](https://www.wired.com/2016/06/hacker-lexicon-fuzzing/)
 
 
 ## Some Methods & Basic Resources : 
