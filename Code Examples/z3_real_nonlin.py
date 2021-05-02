@@ -21,3 +21,6 @@ if S.check() == z3.sat
   )
   
   print("\t%s = %.10f\n" % (s, round(value, 10)))
+
+  # Write to a file 
+  # fileptr.write(f"{round(value, 10):.10f}\n")
