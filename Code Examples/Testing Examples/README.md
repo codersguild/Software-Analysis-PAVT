@@ -12,6 +12,8 @@ Clone the repository [googletest](https://github.com/google/googletest). Use [cm
 
 ```bash 
 $ cmake .
+$ make -j4
+$ sudo make install 
 ```
 
 Running tests, see `code.cpp` file.
