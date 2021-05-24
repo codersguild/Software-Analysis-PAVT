@@ -2,9 +2,6 @@
 
 This repository contains many of the references & texts shared by my late research guide 
 ```Dr. Pramod Subramanyan```. He introduced me to formal verfication & software security. 
-
-May his soul rest in peace. 
-
 The repository contains many cool references shared by my current guide 
 ```Dr. Subhajit Roy```, from whom I have learned a lot and I guess I am still 
 learning new things from him. 
