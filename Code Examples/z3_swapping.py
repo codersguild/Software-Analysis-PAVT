@@ -22,3 +22,8 @@ if __name__ == "__main__":
     print(solver.model())
 
     # x1, y1 have the swapped values of x & y. 
+    
+    # sat
+    # [y, = 2, x, = 4]
+    # sat
+    # [x, = 4, y1 = 4, y, = 2, t, = 4, x1, = 2]
