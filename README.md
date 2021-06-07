@@ -67,13 +67,13 @@ halting.
 
 Introduction Videos :
 
-Simple Inductions :
+### `Simple Inductions` :
 - https://www.youtube.com/watch?v=m_91KWQiC0o&list=PLA72M-qSGPm3Bnkc6iKGxrL1OARztbm6V
 
-Tree Data Structure Induction :
+### `Tree Data Structure Induction` :
 - https://www.youtube.com/watch?v=Fy8cNMuk_rY&list=PLA72M-qSGPm3HZbcRLVOSpxELUHtdaNpt
 
-Natural Deductions :
+### `Natural Deductions` :
 - https://www.youtube.com/watch?v=v2i59XRceXE&list=PLA72M-qSGPm2ohvwvJVbd3abnaSkiBy8j
 
 2. Bounded Model Checking : We model the problem like a Finite State
@@ -83,13 +83,13 @@ globally or eventually when we move from say State S1 to S2. The model is
 bounded in the sense that we consider a finite number of states but an
 have infinite number of executions or traces possible.
 
-Turing Machine, As an extension to FSM.
+### `Turing Machine, As an extension to FSM` :
 - https://www.youtube.com/watch?v=QOcxbzopSk4&list=PLA72M-qSGPm27TjJaMOsNcMnLUoYAO9ZT
 
-Model Checking :
+### `Model Checking` :
 - https://www.youtube.com/watch?v=piISG8bV2GI&list=PLJ5C_6qdAvBGojQMUzL4x5Y0N5gBJmT4l
 
-How we model and define properties :
+### `How we model and define properties` :
 - https://www.youtube.com/watch?v=8wI5ee3Lwsw&list=PLJ5C_6qdAvBGojQMUzL4x5Y0N5gBJmT4l&index=13
 
 LTL, this logic theory is needed to model temporal properties or state transitions where the property depends on time / or on the next state of
@@ -100,22 +100,22 @@ execution. As in the case of an FSM, we need to check if property holds from sta
 For properties that need a set of set of traces to define and prove correctness, we need hyper-properties.
 - https://www.youtube.com/watch?v=JZ5OWdX3hmY
 
-Hoare Logic : To understand how specifications and invariants work.
+### `Hoare Logic : To understand how specifications and invariants work` : 
 - https://www.youtube.com/watch?v=kjxdelbo9C4&list=PLA72M-qSGPm2bZlhxYB-ePerW0U8nPn4H
 
-Binary Search Verification in Dafny :
+### `Binary Search Verification in Dafny` :
 - https://www.youtube.com/watch?v=-_tx3lk7yn4
 
-Dafny PDF : 
+### `Dafny PDF` : 
 - https://arxiv.org/pdf/1701.04481.pdf.
 
-Calculus of Computation : 
+### `Calculus of Computation` : 
 - https://link.springer.com/book/10.1007/978-3-540-74113-8
 
-Hyperproperties : 
+### `Hyperproperties` : 
 - https://www.cs.cornell.edu/fbs/publications/Hyperproperties.pdf.
 
-Hedra Formal Methods : 
+### `Hedra Formal Methods` : 
 - https://www.youtube.com/watch?v=6q15ytIOE3U
 
 ## Detailed Study : For Research Orientated Learning 
@@ -125,76 +125,76 @@ What is Computer Security ?
 - https://www.microsoft.com/en-us/research/publication/practical-principles-for-computer-security/
 - https://dl.acm.org/doi/pdf/10.1145/1592761.1592773
 
-Propositional Natural Deductions : 
+### `Propositional Natural Deductions` : 
 - https://www.youtube.com/watch?v=v2i59XRceXE&list=PLA72M-qSGPm2ohvwvJVbd3abnaSkiBy8j
 
-First Order Natural Deductions : 
+### `First Order Natural Deductions` : 
 - https://www.youtube.com/watch?v=gggItiZ3Sjk&list=PLA72M-qSGPm1pISu85QR6bZL4wK4rZZxp
 
-Hoare Logic Link : 
+### `Hoare Logic Link` : 
  - https://www.youtube.com/watch?v=t-Mj4ji3tCw&list=PLA72M-qSGPm2WxSxXthNiYx2u4KBZlXCC
 
-Hoare Logic + Loops : 
+### `Hoare Logic + Loops` : 
 - https://www.youtube.com/watch?v=kjxdelbo9C4&list=PLA72M-qSGPm2bZlhxYB-ePerW0U8nPn4H
 
-Induction : 
+### `Induction` : 
 - https://www.youtube.com/watch?v=m_91KWQiC0o&list=PLA72M-qSGPm3Bnkc6iKGxrL1OARztbm6V
 
-Tree Induction : 
+### `Tree Induction` : 
 - https://www.youtube.com/watch?v=Fy8cNMuk_rY&list=PLA72M-qSGPm3HZbcRLVOSpxELUHtdaNpt
 
-Model Checking - 1 : 
+### `Model Checking - 1` : 
 - https://www.youtube.com/watch?v=piISG8bV2GI&list=PLJ5C_6qdAvBGojQMUzL4x5Y0N5gBJmT4l
 
-Model Chceking - 2 : 
+### `Model Chceking - 2` : 
 - https://www.youtube.com/watch?v=KrWSK-UzCRc&list=PLnbFC0ntxiqdpoWwMKCVh6BRwBePHaqQx
 
-Linear Temporal Logic : 
+### `Linear Temporal Logic` : 
 - https://www.youtube.com/watch?v=CUno7iGUmAo
 
-Clause Learning (CDCL) :
+### `Clause Learning (CDCL)` :
 - [Clause learning : CDCL](https://cse442-17f.github.io/Conflict-Driven-Clause-Learning/)
 - [Handbook of SAT](https://www.ics.uci.edu/~dechter/courses/ics-275a/winter-2016/readings/SATHandbook-CDCL.pdf)
 
-Hyperproperties : 
+### `Hyperproperties` : 
 - https://www.youtube.com/watch?v=vVMu6g2H50Q
 
-Verification Corner Dafny : 
+### `Verification Corner Dafny` : 
 - https://www.youtube.com/channel/UCP2eLEql4tROYmIYm5mA27A/videos
 
-Verification Corner Loop Invariants : 
+### `Verification Corner Loop Invariants` : 
 - https://www.youtube.com/watch?v=spcfzbisBv4
 
-UCLID5 :
+### `UCLID5` :
 - https://github.com/uclid-org/uclid/tree/master/tutorial
 - https://cse.iitk.ac.in/users/spramod/papers/memocode18.pdf
 - https://cse.iitk.ac.in/users/spramod/papers/ccs17.pdf
 
-UCLID5 is based on Z3. Z3 Reference :
+### `UCLID5 is based on Z3. Z3 Reference` :
 - https://theory.stanford.edu/~nikolaj/programmingz3.html
 
-Paper - 1 : Dynamic Taint Analysis.
+### `Dynamic Taint Analysis` :
 - https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf
 
-Book : The Calculus of Computation. (Bradley & Manna)
+### `The Calculus of Computation. (Bradley & Manna)`
 - Slides : https://lara.epfl.ch/w/_media/sav15:calculus-of-computation-slides.pdf
 
-Non-Interference :
+### `Non-Interference` :
 - http://csl.sri.com/papers/csl-92-2/csl-92-2.pdf
 
-Hyperproperties :
+### `Hyperproperties` :
 - https://eprint.iacr.org/2019/310
 - https://www.cs.cornell.edu/fbs/publications/Hyperproperties.pdf
 - https://arxiv.org/pdf/1905.13517.pdf
 
-Probabilistic Symbolic Execution : 
+### `Probabilistic Symbolic Execution` : 
 - [Probabilistic Symbolic Execution](https://www.cs.cmu.edu/~emc/2014/speakers/CorinaPasareanuEMC14.pdf)
 - [PSE Paper](https://dl.acm.org/doi/10.1145/2338965.2336773)
 
-Probabilistic Programming : 
+### `Probabilistic Programming` : 
 - [Hakaru](https://hakaru-dev.github.io/)
 
-LLVM Frameworks :
+### `LLVM Frameworks` :
 - [LLVM : Compilers Lab](https://www.youtube.com/playlist?list=PLDSTpI7ZVmVnvqtebWnnI8YeB8bJoGOyv)
 
 ## Concepts/Topics : 
