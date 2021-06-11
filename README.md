@@ -66,6 +66,9 @@ halting.
 - From this we may conclude that P(n) holds for all n in our domain.
 
 Introduction Videos :
+### `Program Analysis & Verification`
+
+Fantastic videos by Dr. Subhajit Roy. [ACM School PAVT](https://www.youtube.com/watch?v=QLIQpF9ENqk&list=PLpk1frgfR2WqaacNyPUC-fwUZGMZEY0q9)
 
 ### `Simple Inductions` :
 - https://www.youtube.com/watch?v=m_91KWQiC0o&list=PLA72M-qSGPm3Bnkc6iKGxrL1OARztbm6V
