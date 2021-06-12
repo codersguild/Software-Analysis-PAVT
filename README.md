@@ -199,6 +199,7 @@ What is Computer Security ?
 
 ### `LLVM Frameworks` :
 - [LLVM : Compilers Lab](https://www.youtube.com/playlist?list=PLDSTpI7ZVmVnvqtebWnnI8YeB8bJoGOyv)
+- [LLVM Ball-Laurus Profiler](https://github.com/syoyo/LLVM/blob/master/lib/Transforms/Instrumentation/PathProfiling.cpp)
 
 ### `Model Checkers` : 
 - [CBMC](https://www.cprover.org/cbmc/)
