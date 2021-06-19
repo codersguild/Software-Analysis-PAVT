@@ -1,0 +1,74 @@
+=====================================================================
+TIME: 2021-06-19.12:50:50
+=====================================================================
+FUZZER ARGS:
+ mutationsPerRun : 200
+ externalCmd     : NULL
+ fuzzStdin       : FALSE
+ timeout         : 1 (sec)
+ ignoreAddr      : (nil)
+ ASLimit         : 0 (MiB)
+ RSSLimit        : 0 (MiB)
+ DATALimit       : 0 (MiB)
+ wordlistFile    : NULL
+ dynFileMethod   : 
+ fuzzTarget      : bin/code.out 
+CRASH:
+DESCRIPTION: 
+ORIG_FNAME: input02.txt
+FUZZ_FNAME: /home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code Examples/Fuzzing Examples/HonggFuzz/SIGABRT.PC.7ffff7c5e18b.STACK.1b52d8e3bb.CODE.-6.ADDR.0.INSTR.mov____0x108(%rsp),%rax.fuzz
+PID: 270878
+SIGNAL: SIGABRT (6)
+PC: 0x7ffff7c5e18b
+FAULT ADDRESS: 0x0
+INSTRUCTION: mov____0x108(%rsp),%rax
+STACK HASH: 0000001b52d8e3bb
+STACK:
+ <0x00007ffff7c3d859> [func:UNKNOWN file: line:0 module:/usr/lib/x86_64-linux-gnu/libc-2.31.so]
+ <0x00000000004163e7> [func:__sanitizer::Abort file: line:0 module:/home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code]
+ <0x0000000000414e11> [func:__sanitizer::Die file: line:0 module:/home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code]
+ <0x000000000040bb08> [func:__sanitizer::FlagParser::parse_flag file: line:0 module:/home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code]
+ <0x000000000040bd39> [func:__sanitizer::FlagParser::ParseStringFromEnv file: line:0 module:/home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code]
+ <0x000000000041fd12> [func:__ubsan::InitializeFlags file: line:0 module:/home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code]
+ <0x000000000041fa6d> [func:__ubsan::InitAsStandalone file: line:0 module:/home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code]
+ <0x00000000004049c6> [func:__ubsan::PreInitAsStandalone file:ubsan_init_standalone_preinit.cpp.o line:0 module:/home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code]
+ <0x00007ffff7fe0ce6> [func:UNKNOWN file: line:0 module:/usr/lib/x86_64-linux-gnu/ld-2.31.so]
+ <0x00007ffff7fd013a> [func:UNKNOWN file: line:0 module:/usr/lib/x86_64-linux-gnu/ld-2.31.so]
+=====================================================================
+=====================================================================
+TIME: 2021-06-19.12:51:49
+=====================================================================
+FUZZER ARGS:
+ mutationsPerRun : 200
+ externalCmd     : NULL
+ fuzzStdin       : FALSE
+ timeout         : 1 (sec)
+ ignoreAddr      : (nil)
+ ASLimit         : 0 (MiB)
+ RSSLimit        : 0 (MiB)
+ DATALimit       : 0 (MiB)
+ wordlistFile    : NULL
+ dynFileMethod   : 
+ fuzzTarget      : bin/code.out 
+CRASH:
+DESCRIPTION: 
+ORIG_FNAME: input02.txt
+FUZZ_FNAME: /home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code Examples/Fuzzing Examples/HonggFuzz/SIGABRT.PC.7ffff7c5e18b.STACK.1a8e4d74e0.CODE.-6.ADDR.0.INSTR.mov____0x108(%rsp),%rax.fuzz
+PID: 272234
+SIGNAL: SIGABRT (6)
+PC: 0x7ffff7c5e18b
+FAULT ADDRESS: 0x0
+INSTRUCTION: mov____0x108(%rsp),%rax
+STACK HASH: 0000001a8e4d74e0
+STACK:
+ <0x00007ffff7c3d859> [func:UNKNOWN file: line:0 module:/usr/lib/x86_64-linux-gnu/libc-2.31.so]
+ <0x0000000000416417> [func:__sanitizer::Abort file: line:0 module:/home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code]
+ <0x0000000000414e41> [func:__sanitizer::Die file: line:0 module:/home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code]
+ <0x000000000040bb38> [func:__sanitizer::FlagParser::parse_flag file: line:0 module:/home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code]
+ <0x000000000040bd69> [func:__sanitizer::FlagParser::ParseStringFromEnv file: line:0 module:/home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code]
+ <0x000000000041fd42> [func:__ubsan::InitializeFlags file: line:0 module:/home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code]
+ <0x000000000041fa9d> [func:__ubsan::InitAsStandalone file: line:0 module:/home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code]
+ <0x00000000004049f6> [func:__ubsan::PreInitAsStandalone file:ubsan_init_standalone_preinit.cpp.o line:0 module:/home/zcluster55/Documents/GitHub-Exp/Software-Analysis-PAVT/Code]
+ <0x00007ffff7fe0ce6> [func:UNKNOWN file: line:0 module:/usr/lib/x86_64-linux-gnu/ld-2.31.so]
+ <0x00007ffff7fd013a> [func:UNKNOWN file: line:0 module:/usr/lib/x86_64-linux-gnu/ld-2.31.so]
+=====================================================================
