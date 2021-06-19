@@ -29,7 +29,7 @@ halting.
 - [ ] [From Program to Logic: An Introduction](https://link.springer.com/chapter/10.1007/978-3-642-35746-6_2)
 - [ ] [SAGE : Whitebox Fuzzing for Security Testing](https://patricegodefroid.github.io/public_psfiles/cacm2012.pdf)
 
-### [[⬆]](#updates) <a name='pending'>Pending Papers</a>
+### [[⬆]](#updates) <a name='pending'>Other Papers</a>
 
 - [ ] [ConCert: A Smart Contract Certification Framework in Coq](https://www.researchgate.net/publication/334694940_ConCert_A_Smart_Contract_Certification_Framework_in_Coq)
 - [ ] [Scilla-Paper](https://arxiv.org/abs/1801.00687)
@@ -68,7 +68,8 @@ halting.
 Introduction Videos :
 ### `Program Analysis & Verification`
 
-Fantastic videos by Dr. Subhajit Roy. [ACM School PAVT](https://www.youtube.com/watch?v=QLIQpF9ENqk&list=PLpk1frgfR2WqaacNyPUC-fwUZGMZEY0q9)
+Fantastic videos by Dr. Subhajit Roy (IIT Kanpur)
+- [ACM School PAVT](https://www.youtube.com/watch?v=QLIQpF9ENqk&list=PLpk1frgfR2WqaacNyPUC-fwUZGMZEY0q9)
 
 ### `Simple Inductions` :
 - https://www.youtube.com/watch?v=m_91KWQiC0o&list=PLA72M-qSGPm3Bnkc6iKGxrL1OARztbm6V
