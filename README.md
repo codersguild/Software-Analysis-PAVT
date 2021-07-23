@@ -17,7 +17,12 @@ halting.
 ### [[⬆]](#updates) <a name='links'>Paper Links</a>
 
 - [ ] [KLEE Paper](https://www.doc.ic.ac.uk/~cristic/papers/klee-osdi-08.pdf)
+- [ ] [Deferred concretization in symbolic execution via fuzzing](https://dl.acm.org/doi/10.1145/3293882.3330554)
 - [ ] [UCLID Paper](https://cse.iitk.ac.in/users/spramod/papers/memocode18.pdf)
+- [ ] [Bucketing Failing Tests via Symbolic Analysis](https://link.springer.com/chapter/10.1007/978-3-662-54494-5_3)
+- [ ] [Hot Path SSA](https://dl.acm.org/doi/10.1145/3078659.3078660)
+- [ ] [K-paths Profiling](https://dl.acm.org/doi/10.1109/CGO.2009.11)
+- [ ] [Exploring program phases for statistical bug localization](https://dl.acm.org/doi/10.1145/2462029.2462034)
 - [ ] [Symbolic Execution and Dynamic Taint Analysis](https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf)
 - [ ] [Non-Interference](http://csl.sri.com/papers/csl-92-2/csl-92-2.pdf)
 - [ ] [A Formal Approach to Secure Speculation](https://eprint.iacr.org/2019/310.pdf)
