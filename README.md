@@ -61,6 +61,7 @@ halting.
 - [ ] [CISSP Domain Security](https://www.youtube.com/playlist?list=PLWqLeluv2Rq2jH70NFPYm0PB8sDMJ8gJR)
 - [ ] [Delta Debugging](https://www.cs.purdue.edu/homes/suresh/408-Spring2017/Lecture-9.pdf)
 - [ ] [What is fuzzing?](https://www.wired.com/2016/06/hacker-lexicon-fuzzing/)
+- [ ] [AFL++](https://github.com/AFLplusplus/AFLplusplus)
 
 ## Some Methods & Basic Resources :
 
