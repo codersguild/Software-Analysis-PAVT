@@ -122,6 +122,7 @@ For properties that need a set of set of traces to define and prove correctness,
 ### `Hoare Logic : To understand how specifications and invariants work` :
 
 - https://www.youtube.com/watch?v=kjxdelbo9C4&list=PLA72M-qSGPm2bZlhxYB-ePerW0U8nPn4H
+- http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/IncorrectnessLogic.pdf
 
 ### `Binary Search Verification in Dafny` :
 
