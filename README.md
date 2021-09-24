@@ -213,6 +213,9 @@ What is Computer Security ?
 ### `UCLID5 is based on Z3. Z3 Reference` :
 
 - https://theory.stanford.edu/~nikolaj/programmingz3.html
+- https://z3prover.github.io/api/html/namespacez3.html
+- https://github.com/Z3Prover/z3
+- https://ericpony.github.io/z3py-tutorial/guide-examples.htm
 
 ### `Dynamic Taint Analysis` :
 
