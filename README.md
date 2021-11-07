@@ -6,9 +6,9 @@ concrete / abstract overview of a problem or model and then answering some
 questions regarding the properties of that model. We try to prove certain
 assertions and check for validity. Eg. Given a program does it ever happen
 that some variables take negative values. Does a model access a particular
-array element while execution. Some of the validations or proves might
-seem NP-Complete but these things are solved in finite amount of time and
-resources for most of the practical problems that we try solving. You can
+array element while execution. Some of the claims and problems that verifications tries to solve
+are `undecideable` but these things are done in finite amount of time and
+resources for most of the practical `programming/development` problems that we try solving via `abstractions` and `approximations`. You can
 however provide specific inputs that make the problem hard to solve/non
 halting.
 
