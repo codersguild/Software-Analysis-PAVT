@@ -1,4 +1,4 @@
-## Formal Verification & Software Security :
+## Program Analysis, Testing & Formal Verification :
 
 Formal Method is a set of techniques and methodology that helps us in
 doing formal verification. Formal Verification is a way of defining a
