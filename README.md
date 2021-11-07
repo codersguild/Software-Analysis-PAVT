@@ -121,7 +121,7 @@ For properties that need a set of set of traces to define and prove correctness,
 
 - https://www.youtube.com/watch?v=JZ5OWdX3hmY
 
-### `Hoare Logic : To understand how specifications and invariants work` :
+### `Hoare Logic` :
 
 - https://www.youtube.com/watch?v=kjxdelbo9C4&list=PLA72M-qSGPm2bZlhxYB-ePerW0U8nPn4H
 - http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/IncorrectnessLogic.pdf
