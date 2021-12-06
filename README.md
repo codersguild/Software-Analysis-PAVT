@@ -193,6 +193,7 @@ What is Computer Security ?
 
 - [Clause learning : CDCL](https://cse442-17f.github.io/Conflict-Driven-Clause-Learning/)
 - [Handbook of SAT](https://www.ics.uci.edu/~dechter/courses/ics-275a/winter-2016/readings/SATHandbook-CDCL.pdf)
+- [Conflict Driven Clause Learning - CDCL](https://www.cs.utexas.edu/~isil/cs389L/CDCL.pdf)
 
 ### `Hyperproperties` :
 
