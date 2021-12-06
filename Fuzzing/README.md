@@ -16,3 +16,5 @@
 - [NEUZZ: Efficient Fuzzing with Neural Program Smoothing](https://arxiv.org/abs/1807.05620)
 - [Angora: Efficient Fuzzing by Principled Search](https://web.cs.ucdavis.edu/~hchen/paper/chen2018angora.pdf)
 - [FuzzFactory: Domain-Specific Fuzzing with Waypoints](https://www.carolemieux.com/fuzzfactory_oopsla19.pdf)
+- [Examples & Tutorials](https://github.com/codersguild/Software-Analysis-PAVT/tree/master/Code%20Examples/Fuzzing%20Examples)
+- [google/fuzzing](https://github.com/google/fuzzing)
