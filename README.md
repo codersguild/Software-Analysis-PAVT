@@ -35,6 +35,7 @@ Some cool paper links.
 - [ ] [DART Paper](https://web.eecs.umich.edu/~weimerw/2014-6610/reading/p213-godefroid.pdf)
 - [ ] [From Program to Logic: An Introduction](https://link.springer.com/chapter/10.1007/978-3-642-35746-6_2)
 - [ ] [SAGE : Whitebox Fuzzing for Security Testing](https://patricegodefroid.github.io/public_psfiles/cacm2012.pdf)
+- [ ] [SoC Verification Problem](https://www.youtube.com/watch?v=rtaaOdGuMCc)
 
 ### [[⬆]](#updates) <a name='pending'>Other Papers</a>
 
