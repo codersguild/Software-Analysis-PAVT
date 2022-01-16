@@ -6,3 +6,5 @@
 - [Engineering a Compiler](http://www.r-5.org/files/books/computers/compilers/writing/Keith_Cooper_Linda_Torczon-Engineering_a_Compiler-EN.pdf) 
 
 ## Applications
+
+- [Global Value Numbering](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/global-value-numbering/)
