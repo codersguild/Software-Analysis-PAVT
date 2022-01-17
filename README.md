@@ -12,6 +12,10 @@ resources for most of the practical `programming/development` problems that we t
 however provide specific inputs that make the problem hard to solve/non
 halting.
 
+## ACM Winter School :
+
+- [ACM Winter School : Computer Architecture, Compilers, PL, Logic, Testing & Verification.](https://winterschool2022.cse.iitk.ac.in/)
+
 # <a name='updates'>Research Papers & Topics</a>
 
 Some cool paper links. 
