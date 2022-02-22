@@ -8,3 +8,5 @@
 ## Applications
 
 - [Global Value Numbering](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/global-value-numbering/)
+- [LLVM Live Variables Analysis](https://llvm.org/doxygen/LiveVariables_8cpp_source.html)
+- [LLVM Dead Code Elimination Analysis](https://llvm.org/doxygen/DCE_8cpp_source.html)
