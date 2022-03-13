@@ -1,9 +1,10 @@
 # Syntax Analysis 
 
-Lexing, Parsing, Parser Generators, ANTLR4.
+Lexing, Parsing, Parser Generators, ANTLR4, Parsec (Haskell)
 
 ## Resources
 
+- [Parsec Haskell](https://en.wikipedia.org/wiki/Parsec_(parser))
 - [Scala Packrat source](https://www.scala-sbt.org/sxr/samples/library/scala/util/parsing/combinator/PackratParsers.scala.html)
 - [ANTLR4 Reference](https://github.com/antlr/grammars-v4)
 - [ANTLR4 Docs](https://github.com/antlr/antlr4/blob/master/doc/index.md)
