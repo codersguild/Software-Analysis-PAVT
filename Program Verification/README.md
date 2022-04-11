@@ -6,3 +6,4 @@
 - [An Axiomatic Basis for Computer Programming](http://sunnyday.mit.edu/16.355/Hoare-CACM-69.pdf)
 - [Hoare Logic](https://www.cmi.ac.in/~madhavan/courses/program-analysis-2014/slides/IISc-Hoare-Logic-slides.pdf)
 - [Weakest Precondition Calculus](https://cs.anu.edu.au/courses/comp2600/Lectures/19wp1.pdf)
+- [More on Hoare Logic : Proving Programs Correct](https://www.cse.iitb.ac.in/~supratik/courses/cs615/msri_ss08.pdf)
