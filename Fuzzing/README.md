@@ -9,7 +9,7 @@
 - [AFL++ Tool](https://aflplus.plus/)
 - [HonggFuzz Tool](https://github.com/google/honggfuzz)
 - [**libFuzzer – a library for coverage-guided fuzz testing.**](https://llvm.org/docs/LibFuzzer.html)
-- [Short Intro : ***gcov*](https://docs.oracle.com/en/operating-systems/oracle-linux/6/porting/ch02s05s01.html)
+- [Short Intro : **gcov**](https://docs.oracle.com/en/operating-systems/oracle-linux/6/porting/ch02s05s01.html)
 
 ## Applications & Papers
 
