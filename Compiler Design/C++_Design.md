@@ -1,0 +1,19 @@
+- Templates: https://www.youtube.com/watch?v=LMP_sxOaz6g
+- Templates(2): https://www.youtube.com/watch?v=VNJ4wiuxJM4&t=276s
+- Lambdas https://www.youtube.com/watch?v=3jCOwajNch0
+- Smart Pointers https://www.youtube.com/watch?v=xGDLkt-jBJ4&t=65s
+- Move Semantics https://www.youtube.com/watch?v=Bt3zcJZIalk&t=4s
+- Lambdas https://www.youtube.com/watch?v=IgNUBw3vcO4
+- C++ Code Smells https://www.youtube.com/watch?v=f_tLQl0wLUM&list=PL5qoVlA-tv09ykIIPHP9N6vgJaFPnYWCa&index=15
+- Runtime Polymorphism https://www.youtube.com/watch?v=gVGtNFg4ay0
+- dynamic_cast from Scratch https://www.youtube.com/watch?v=QzJL-8WbpuU
+- Inplace Construction https://www.youtube.com/watch?v=oTMSgI1XjF8
+- Surprises in Object Lifetime https://www.youtube.com/watch?v=uQyT-5iWUow
+- How C++ Debuggers Work https://www.youtube.com/watch?v=0DDrseUomfU
+- Debugging Linux C++ https://www.youtube.com/watch?v=V1t6faOKjuQ
+- VTable https://www.youtube.com/watch?v=jBnIMEb2GhA&t=650s
+- RVO https://www.youtube.com/watch?v=hA1WNtNyNbo
+- Understanding Compilers https://www.youtube.com/watch?v=8nyq8SNUTSc
+- Intitialization Nightmares in C++ https://www.youtube.com/watch?v=7DTlWPgX6zs
+- Choose right container https://www.youtube.com/watch?v=yjPKVOYcw28
+- C++ Std Library thing https://www.youtube.com/watch?v=JIbH02EsdB8
