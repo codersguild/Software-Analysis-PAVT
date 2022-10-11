@@ -1,6 +1,8 @@
 # Fuzzing 
 
 - [Fuzzing software: common challenges and potential solutions (Part 1)](https://securitylab.github.com/research/fuzzing-challenges-solutions-1/)
+- [Almost correct invariants: synthesizing inductive invariants by fuzzing proofs](https://dl.acm.org/doi/abs/10.1145/3533767.3534381)
+- [Fuzzing SMT solvers via two-dimensional input space exploration](https://dl.acm.org/doi/abs/10.1145/3460319.3464803)
 
 ## Resources
 
